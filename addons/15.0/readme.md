@@ -1,1 +1,1 @@
-This file is intentionally left blank.
+copy the 15.0 folder to etc/addons
